@@ -1,0 +1,60 @@
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.pdb
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\TelerikCommon.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.xml
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\TelerikCommon.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csprojResolveAssemblyReference.cache
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csproj.CoreCompileInputs.cache
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.pdb
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\TelerikCommon.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csprojResolveAssemblyReference.cache
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csproj.CoreCompileInputs.cache
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.pdb
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\TelerikCommon.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.xml
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csprojResolveAssemblyReference.cache
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.csproj.CoreCompileInputs.cache
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\Layers\obj\Debug\PrestaMe.Layers.pdb

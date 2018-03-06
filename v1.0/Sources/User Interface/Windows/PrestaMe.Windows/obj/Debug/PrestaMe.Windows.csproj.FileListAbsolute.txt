@@ -1,0 +1,96 @@
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Properties.Resources.resources
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.GenerateResource.Cache
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe.licenses
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.pdb
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\TelerikCommon.dll
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.xml
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.conexionForm.resources
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.loginForm.resources
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.Modelos.ThemeForm.resources
+C:\Users\Emmanuel\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.splashForm.resources
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.pdb
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\TelerikCommon.dll
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csprojResolveAssemblyReference.cache
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.conexionForm.resources
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.loginForm.resources
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.Modelos.ThemeForm.resources
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Properties.Resources.resources
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.splashForm.resources
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.GenerateResource.Cache
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe.licenses
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.CoreCompileInputs.cache
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
+C:\Users\EmmaPj18\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.pdb
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\TelerikCommon.dll
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csprojResolveAssemblyReference.cache
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.loginForm.resources
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Properties.Resources.resources
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.splashForm.resources
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.GenerateResource.Cache
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe.licenses
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.CoreCompileInputs.cache
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
+C:\Users\emman\Desktop\InsideDev.Technology\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csprojResolveAssemblyReference.cache
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.loginForm.resources
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Properties.Resources.resources
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.Forms.splashForm.resources
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.GenerateResource.Cache
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe.licenses
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.csproj.CoreCompileInputs.cache
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.exe
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\obj\Debug\PrestaMe.Windows.pdb
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe.config
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.exe
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Windows.pdb
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\TelerikCommon.dll
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\PrestaMe.Layers.pdb
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.xml
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\jamyr\Documents\Visual Studio 2017\PrestaMe\v1.0\Sources\User Interface\Windows\PrestaMe.Windows\bin\Debug\Telerik.WinControls.UI.xml

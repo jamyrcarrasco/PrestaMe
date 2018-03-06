@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<configuration>
+  <aplicacion>
+    <identificacion producto="PrestaMe" alias="PrestaMe" siglas="PM$" tipo=".exe" version="1.0.0.0" copyright="Copyright InsideDev Technology ©2017" />
+    <entorno ambiente="windows" multiCompania="si" multiSucursal="si" multiUsuario="si" multiMoneda="si" interfaz="windows10" />
+    <carpeta principal="default" imagenes="imagenes" iconos="iconos" reportes="reportes" documentos="documentos" xml="xml" scripts="scripts" />
+    <manejoErrores tipoEnvio="XMLCorreo" />
+  </aplicacion>
+  <soporte>
+    <mensajeria emailTo="colocarcontenidoaqui" emailFrom="colocarcontenidoaqui" emailPOP3="colocarcontenidoaqui" emailSMTP="colocarcontenidoaqui" hostName="colocarcontenidoaqui" password="colocarcontenidoaqui" emailPort="25" emailFormat="HTML" emailSubject="Correo de PrestaMe 1.0.0.0" />
+    <contacto entidad="InsideDev Technology" direccion="" telefono="" correo="insidedev.technology@gmail.com" departamento="" copyright="Copyright InsideDev Technology ©2017" />
+  </soporte>
+  <connectionStrings>
+   <sqlServer connectionString="Data Source=JAM-PC\JAMYRCARRASCO;Initial Catalog=prestaMeDB;Integrated Security=True" nombreServidor="JAM-PC\JAMYRCARRASCO" nombreBaseDeDatos="prestaMeDB" nombreInstancia="JAM-PC\JAMYRCARRASCO" passwordEncriptado="false" />
+     <oracle connectionString="" nombreServidor="" nombreBaseDeDatos="" nombreInstancia="" passwordEncriptado="" />
+    <postgreSql connectionString="" nombreServidor="" nombreBaseDeDatos="" nombreInstancia="" passwordEncriptado="" />  
+    <mySql connectionString="" nombreServidor="" nombreBaseDeDatos="" nombreInstancia="" passwordEncriptado="" />
+    <defaultBaseDeDatos default="sqlServer" />
+  </connectionStrings>
+  <splash>
+    <formulario width="500" heigth="400" transparencyKey="control" icon="system/PrestaMe.ico" backgroundImage="system/PrestaMe.JPG" layout="stretch" backColor="Control" startPosition="middlecenter" />
+    <siglas autoSize="true" fontSize="48" fontBold="true" fontItalic="false" fontRegular="false" fontStrykeout="false" fontUnderline="false" locationX="323" locationY="111" dock="none" anchor="none" visible="false" foreColor="Black" backColor="Transparent" fontName="Arial" alignment="middlecenter" />
+    <alias autoSize="true" fontSize="48" fontBold="true" fontItalic="false" fontRegular="false" fontStrykeout="false" fontUnderline="false" locationX="323" locationY="111" dock="none" anchor="none" visible="false" foreColor="Black" backColor="Transparent" fontName="Arial" alignment="middlecenter" />
+    <version autoSize="true" fontSize="10" fontBold="true" fontItalic="false" fontRegular="false" fontStrykeout="false" fontUnderline="false" locationX="456" locationY="16" dock="none" anchor="none" visible="true" foreColor="Black" backColor="Transparent" fontName="Arial" alignment="middlecenter" />
+    <producto autoSize="true" fontSize="16" fontBold="true" fontItalic="false" fontRegular="false" fontStrykeout="false" fontUnderline="false" locationX="227" locationY="140" dock="none" anchor="none" visible="true" foreColor="Black" backColor="Transparent" fontName="Arial" alignment="middlecenter" />
+    <copyright autoSize="true" fontSize="8" fontBold="true" fontItalic="false" fontRegular="false" fontStrykeout="false" fontUnderline="false" locationX="12" locationY="370" dock="none" anchor="none" visible="true" foreColor="Black" backColor="Transparent" fontName="Arial" alignment="middlecenter" />
+    <progressBar autoSize="true" fontSize="8" fontBold="false" fontItalic="false" fontRegular="false" fontStrykeout="false" fontUnderline="false" locationX="136" locationY="184" dock="none" anchor="none" visible="true" foreColor="Black" backColor="Transparent" fontName="Arial" alignment="middlecenter" />
+    <progressMessage autoSize="true" fontSize="8.85" fontBold="false" fontItalic="false" fontRegular="true" fontStrykeout="false" fontUnderline="false" locationX="224" locationY="214" dock="none" anchor="none" visible="true" foreColor="Black" backColor="Transparent" fontName="Microsoft Sans Serif" alignment="middlecenter" />
+  </splash>
+</configuration>
